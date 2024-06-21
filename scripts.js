@@ -16,3 +16,4 @@ document.getElementById('download-form').addEventListener('submit', function(eve
             output.innerHTML = `<p>Error: ${error.message}</p>`;
         });
 });
+
